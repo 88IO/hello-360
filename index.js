@@ -48,15 +48,15 @@ const styles = StyleSheet.create({
   },
   greetingBox1: {
     padding: 20,
-    backgroundColor: '#000000',
+    backgroundColor: 'rgba(0, 0, 128, 0.4)',
     borderColor: '#639dda',
-    borderWidth: 2,
+    borderWidth: 3,
   },
   greetingBox2: {
     padding: 20,
-    backgroundColor: '#000000',
+    backgroundColor: 'rgba(0, 0, 128, 0.4)',
     borderColor: '#ff8c00',
-    borderWidth: 2,
+    borderWidth: 3,
   },
   greeting: {
     fontSize: 30,
